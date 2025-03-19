@@ -1,0 +1,2 @@
+C:/Users/soria/StudioProjects/burnstien/android/app/.cxx/Debug/1u6v1v2z/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/soria/StudioProjects/burnstien/android/app/.cxx/Debug/1u6v1v2z/arm64-v8a/CMakeFiles/rebuild_cache.dir
